@@ -15,7 +15,14 @@ body {
 }
 
 #mainArea {
-  background-color: gray;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+#myName {
+  text-align: center;
+  background-color: white;
+  color: black;
 }
 
 #footerSection {
