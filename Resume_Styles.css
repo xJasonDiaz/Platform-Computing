@@ -1,5 +1,5 @@
 body {
-  background-color: gray;
+  background-color: black;
   color: yellow;
 }
 
@@ -12,6 +12,10 @@ body {
   border-bottom-width: 5px;
   border-color: blue;
   text-align: center;
+}
+
+section {
+  background-color: grey;
 }
 
 #footerSection {
