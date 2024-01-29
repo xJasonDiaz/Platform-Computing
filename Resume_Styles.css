@@ -1,5 +1,6 @@
 body {
-  background-color: black;
+  background-color: gray;
+  color: yellow;
 }
 
 #headerSection {
@@ -9,5 +10,13 @@ body {
   border-left-width: 0px;
   border-right-width: 0px;
   border-bottom-width: 5px;
-  border-color: red;
+  border-color: blue;
+  text-align: center;
+}
+
+#myName {
+  text-align: center;
+  color: black;
+  font-size: 25px;
+  
 }
