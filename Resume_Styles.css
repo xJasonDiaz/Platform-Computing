@@ -3,8 +3,12 @@ body {
   color: yellow;
 }
 
-#headerSection {
+h2 {
   color: white;
+}
+
+#headerSection {
+  color: gray;
   border-style: solid;
   border-top-width: 0px;
   border-left-width: 0px;
@@ -21,12 +25,14 @@ body {
 
 #myName {
   text-align: center;
-  background-color: white;
-  color: black;
+  color: green;
 }
 
+
+
+
 #footerSection {
-  color: white;
+  color: gray;
   border-style: solid;
   border-top-width: 5px;
   border-left-width: 0px;
