@@ -1,13 +1,41 @@
 body {
-  background-color: black;
-  color: yellow;
+  background-color: white;
+}
+
+p {
+  color: black;
+}
+
+li {
+  color: black;
+}
+
+h1 {
+  color: black;
 }
 
 h2 {
-  color: whitesmoke;
+  color: black;
 }
 
-#headerSection {
+h3 {
+  color: black;
+}
+
+h4 {
+  color: black;
+}
+
+h5 {
+  color: black;
+}
+
+h6 {
+  color: black;
+}
+
+
+/*#headerSection {
   color: gray;
   border-style: solid;
   border-top-width: 0px;
@@ -16,23 +44,20 @@ h2 {
   border-bottom-width: 5px;
   border-color: red;
   text-align: center;
-}
+}*/
 
-#mainArea {
+/*#mainArea {
   padding-left: 25%;
   padding-right: 25%;
-}
+}*/
 
-#myName {
+/*#myName {
   text-align: center;
   color: green;
   font-size: 180%;
-}
+}*/
 
-
-
-
-#footerSection {
+/*#footerSection {
   color: gray;
   border-style: solid;
   border-top-width: 5px;
@@ -41,4 +66,4 @@ h2 {
   border-bottom-width: 0px;
   border-color: red;
   text-align: center;
-}
+}*/
