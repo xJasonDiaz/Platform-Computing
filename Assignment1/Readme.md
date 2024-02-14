@@ -4,10 +4,10 @@ PROVIDE OVERVIEW OF ASSIGNMENT HERE
 
 Time spent: **NUMBER_HOURS_SPENT** hours spent in total
 
-  Started: 9:30am Feb 14
+  Started: 9:30 Feb 14
 
-  9:48 Feb 14
-
+  9:48am Feb 14
+  10:10am Feb 14
 
 
 
