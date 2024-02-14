@@ -1,35 +1,56 @@
 body {
-  background-color: white;
+  background-color: black;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 p {
-  color: black;
+  color: white;
 }
 
 li {
-  color: black;
+  color: white;
 }
 
 h1 {
-  color: black;
+  color: red;
+  text-align: center;
 }
 
 h2 {
-  color: black;
+  color: green;
 }
 
 h3 {
-  color: black;
+  color: yellow;
 }
 
 h4 {
-  color: black;
+  color: blue;
+  text-align: center;
 }
 
-h5 {
-  color: black;
+
+
+#introSection {
+  background-color: grey;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-right: 10%;
+  padding: 2%;
 }
 
-h6 {
-  color: black;
+#educationSection {
+  background-color: grey;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-right: 10%;
+  padding: 2%;
+}
+
+#hobbySection {
+  background-color: grey;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-right: 10%;
+  padding: 2%;
 }
