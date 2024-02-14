@@ -4,6 +4,10 @@ PROVIDE OVERVIEW OF ASSIGNMENT HERE
 
 Time spent: **NUMBER_HOURS_SPENT** hours spent in total
 
+  Started: 9:30am Feb 14
+
+  
+
 ## Features
 
 The following **required** features are completed:
