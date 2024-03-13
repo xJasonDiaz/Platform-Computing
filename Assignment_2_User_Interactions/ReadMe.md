@@ -4,7 +4,8 @@ PROVIDE OVERVIEW OF ASSIGNMENT HERE
 
 Time spent: **NUMBER_HOURS_SPENT** hours spent in total
 
-Start: Wed Mar 13 4:28
+Start: Wed Mar 13 4:28pm
+Wed Mar 13 4:32pm
 
 
 ## Features
