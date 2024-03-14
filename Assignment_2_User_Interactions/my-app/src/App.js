@@ -11,7 +11,7 @@ function App() {
           Email: Jason.A.Diaz@outlook.com | Instagram: @xSodaRain | TikTok: @.sodarain | GitHub: <a href ="https://github.com/xJasonDiaz"> Repository</a>
         </h4>
 
-        <img src="/Users/jasondiaz/Documents/GitHub/Platform-Computing/Assignment1/imgFolder/123_1.JPEG" title='selfImage' alt='selfImage' width='15%' class="center"/>
+        <img src="/Users/jasondiaz/Documents/GitHub/Platform-Computing/Assignment_2_User_Interactions/my-app/public/123_1.JPEG" title='selfImage' alt='selfImage' width='15%' class="center"/>
 
         <h1>Jason A. Diaz</h1>
 
