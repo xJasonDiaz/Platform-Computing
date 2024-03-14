@@ -36,3 +36,65 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: black;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+  color: white;
+}
+
+li {
+  color: white;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  color: green;
+}
+
+h3 {
+  color: yellow;
+}
+
+h4 {
+  color: blue;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+#introSection {
+  background-color: grey;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-right: 10%;
+  padding: 2%;
+}
+
+#educationSection {
+  background-color: grey;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-right: 10%;
+  padding: 2%;
+}
+
+#hobbySection {
+  background-color: grey;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-right: 10%;
+  padding: 2%;
+}
